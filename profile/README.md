@@ -12,7 +12,7 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 
 ---
 
-## 👨‍👩‍👧‍👦 Team Members
+## 👥 Team Members
 
 | Learning Path               | Student ID     | Name                      | LinkedIn                                              | GitHub                                      |
 |----------------------------|----------------|---------------------------|-------------------------------------------------------|---------------------------------------------|
