@@ -17,7 +17,7 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 | Learning Path               | Student ID     | Name                      | LinkedIn                                              | GitHub                                      |
 |----------------------------|----------------|---------------------------|-------------------------------------------------------|---------------------------------------------|
 | Front-End & Back-End Dev   | FC438D5Y1466   | Aditya Dwi Nugroho        | [Link](#)                                             | [Link](#)                                   |
-| Front-End & Back-End Dev   | FC810D5Y2004   | Rezky Aditia Fauzan       | [Rezky Aditia Fauzan](https://www.linkedin.com/in/rezkyaditiafauzan) | [zyrridian](https://github.com/zyrridian)   |
+| Front-End & Back-End Dev   | FC810D5Y2004   | Rezky Aditia Fauzan       | [Linkn](https://www.linkedin.com/in/rezkyaditiafauzan) | [zyrridian](https://github.com/zyrridian)   |
 | Machine Learning Engineer  | MC299D5Y2067   | Defrizal Yahdiyan Risyad  | [Link](#)                                             | [Link](#)                                   |
 | Machine Learning Engineer  | MC277D5Y2245   | Falah Mandira Irawan      | [Link](#)                                             | [Link](#)                                   |
 | Machine Learning Engineer  | MC370D5Y0308   | Sayyid Miftah Farid       | [Link](#)                                             | [Link](#)                                   |
