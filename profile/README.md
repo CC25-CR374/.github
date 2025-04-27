@@ -6,8 +6,8 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 
 | Repository    | Description                          | Link     |
 |---------------|--------------------------------------|----------|
-| `frontend`    | Front-End application (React/Vue/etc) | _Coming soon_ |
-| `backend`     | Back-End service (Node/Express/etc)   | _Coming soon_ |
+| `frontend`    | Front-End application (Vue/Nuxt3) | _Coming soon_ |
+| `backend`     | Back-End service (Node/Hapi/etc)   | _Coming soon_ |
 | `ml-model`    | Machine Learning model and pipeline   | _Coming soon_ |
 
 ---
@@ -26,8 +26,8 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React / Vue (TBD)
-- **Backend**: Node.js / Express / MongoDB (TBD)
+- **Frontend**: Vue/Nuxt3
+- **Backend**: Node.js / Hapi / MongoDB (TBD)
 - **Machine Learning**: Python / TensorFlow / Scikit-learn (TBD)
 - **CI/CD**: GitHub Actions (Planned)
 - **Deployment**: Railway / Vercel / Render (TBD)
@@ -36,6 +36,6 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 
 ## 📌 Notes
 
-- This project is developed as part of the DevAcademy Capstone Program.
+- This project is developed as part of the DBS Coding Camp Capstone Program.
 - Stay tuned for repo links and progress updates!
 
