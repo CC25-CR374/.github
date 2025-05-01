@@ -1,6 +1,6 @@
-# 🚀 Capstone Project - CC25-CR374
+# 🚀 Domma (Dompet Mahasiswa)
 
-Welcome to the official GitHub organization for Team **CC25-CR374**. This capstone project is part of the final milestone in our journey at DBS Coding Camp.
+Welcome to the official GitHub organization for **Domma** – *Dompet Mahasiswa*. This project is developed as part of the final capstone milestone in our journey at DBS Coding Camp.
 
 ## 📁 Repository Structure
 
@@ -34,6 +34,5 @@ Welcome to the official GitHub organization for Team **CC25-CR374**. This capsto
 
 ## 📌 Notes
 
-- This project is developed as part of the DBS Coding Camp Capstone Program.
-- Stay tuned for repo links and progress updates!
-
+- Domma is developed as part of the DBS Coding Camp Capstone Program.
+- Stay tuned for repository links and further progress updates!
