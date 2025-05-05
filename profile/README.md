@@ -8,7 +8,7 @@ Welcome to the official GitHub organization for **Domma** – *Dompet Mahasiswa*
 |---------------|-------------------------------------|---------------|
 | `frontend`    | Front-End application (Vue/Nuxt3)   | [Link Here](https://github.com/domma-app/frontend) |
 | `backend`     | Back-End service (Node/Hapi/etc)    | [Link Here](https://github.com/domma-app/backend) |
-| `ml-model`    | Machine Learning model and pipeline | _Coming soon_ |
+| `ml-model`    | Machine Learning model and pipeline | Link Here |
 
 ---
 
