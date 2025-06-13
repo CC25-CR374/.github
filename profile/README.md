@@ -28,11 +28,11 @@ Welcome to the official GitHub organization for **Domma** – *Dompet Mahasiswa*
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: Vue.js / Nuxt3
+- **Frontend**: Vue.js / Nuxt3 / Typescript
 - **Backend**: Node.js / Hapi / PostgreSQL / Supabase
-- **Machine Learning**: Python / TensorFlow / Scikit-learn (TBD)
-- **CI/CD**: GitHub Actions (Planned)
-- **Deployment**: Netlify / Vercel / ~Render~ / Railway / Google Cloud Run (TBD)
+- **Machine Learning**: Python / TensorFlow / Scikit-learn
+- **CI/CD**: GitHub Actions
+- **Deployment**: Netlify / Vercel / Huggingface Space
 
 ---
 
