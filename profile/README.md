@@ -2,13 +2,17 @@
 
 Welcome to the official GitHub organization for **Domma** – *Dompet Mahasiswa*. This project is developed as part of the final capstone milestone in our journey at DBS Coding Camp.
 
+![Frame 48](https://github.com/user-attachments/assets/facbda34-976d-446c-851e-c45ba51248b5)
+
 ## 📁 Repository Structure
 
 | Repository    | Description                         | Link          |
 |---------------|-------------------------------------|---------------|
 | `frontend`    | Front-End application (Vue/Nuxt3)   | [Link Here](https://github.com/domma-app/frontend) |
 | `backend`     | Back-End service (Node/Hapi/etc)    | [Link Here](https://github.com/domma-app/backend) |
-| `ml-model`    | Machine Learning model and pipeline | Link Here |
+| `stock-purchase-recommendation`    | Machine Learning model and pipeline | [Link Here](https://github.com/domma-app/stock-purchase-recommendation) |
+| `classification-expenditure`    | Machine Learning model and pipeline | [Link Here](https://github.com/domma-app/Classification-Expenditure) |
+| `forecasting-expenditure`    | Machine Learning model and pipeline | [Link Here](https://github.com/domma-app/Forecasting-Expenditure) |
 
 ---
 
